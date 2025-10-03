@@ -1,9 +1,10 @@
-![Header](./github-header-banner.png)
+<img width="1700" height="460" alt="github-header-banner-cat" src="https://github.com/user-attachments/assets/7b548c2e-8d52-47bb-b859-4eb7c4e9485e" />
 
 <!--
 **ThalineMidori/ThalineMidori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<img width="1700" height="460" alt="github-header-banner-cat" src="https://github.com/user-attachments/assets/1c269c7f-329e-47e4-b33f-ca9e80a520b1" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
